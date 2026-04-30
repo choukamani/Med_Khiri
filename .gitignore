@@ -1,0 +1,11 @@
+.env
+.env.*
+credentials.json
+token.json
+service-account.json
+*-service-account*.json
+meidcal-platform-*.json
+deploy.local.bat
+venv/
+__pycache__/
+*.pyc
