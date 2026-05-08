@@ -26,3 +26,6 @@ htmlcov/
 .gitignore
 README.md
 *.md
+Dockerfile
+deploy.bat
+deploy.sh
